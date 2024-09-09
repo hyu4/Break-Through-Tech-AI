@@ -2,7 +2,7 @@
 
 Here is a collection of my work from my experience at Break Through Tech AI.
 
-## Unit 1: Machine Learning in a Nutshell
+### Unit 1: Machine Learning in a Nutshell
 
 ## Unit 2: Manage Data in Machine Learning
 
